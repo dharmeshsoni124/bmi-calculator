@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+    border: 1px solid black;
+    width: 30%;
+    height:350px;
+    margin-left: 600px;
+    background-color: rgb(243, 224, 224);
+}
+.age{
+    padding:10px;
+}
+
+.height{
+    padding: 10px;
+    margin:10px;
+}
+.weight{
+    padding: 10px;
+    margin:10px;
+}
+.calculate{
+    padding:15px;
+    background-color: green;
+    color: white;
+    margin-right: 20px;
+    
+
+}
+.clear{
+    padding:15px;
+    background-color: red;
+    color: white;
+
+}
+.gender{
+    padding: 10px;
+    margin-left: -40px;
+}
+
